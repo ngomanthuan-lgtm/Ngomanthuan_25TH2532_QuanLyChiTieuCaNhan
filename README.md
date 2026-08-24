@@ -148,16 +148,4 @@
 
 <hr>
 
-<h2>🚀 CHƯƠNG 5: HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN</h2>
-
-<ol>
-  <li><b>Clone dự án từ GitHub:</b><br>
-      <code>git clone https://github.com/ngomanthuan-lgtm/Ngomanthuan_25TH2532_QuanLyChiTieuCaNhan.git</code>
-  </li>
-  <li><b>Mở dự án:</b> Trong Android Studio chọn File ➔ Open... ➔ Chọn thư mục dự án.</li>
-  <li><b>Chạy ứng dụng:</b> Chọn máy ảo Pixel hoặc thiết bị thật và nhấn nút Run ▶️ (Shift + F10).</li>
-</ol>
-
-<hr>
-
 <p align="center"><i>Đồ án Bài tập lớn môn Lập trình thiết bị di động được thực hiện bởi sinh viên Ngô Mẫn Thuận - MSSV: 25TH2532.</i></p>
