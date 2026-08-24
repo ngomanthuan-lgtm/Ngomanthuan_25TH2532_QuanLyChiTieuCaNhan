@@ -94,7 +94,8 @@
 
 <h3>1. 📱 Màn hình chính Danh sách Chi tiêu & Thống kê Số dư (activity_main.xml)</h3>
 
-<p><i>(Kéo thả hình chụp Màn hình chính vào đây)</i></p>
+<p><i><img width="278" height="431" alt="Hình 1" src="https://github.com/user-attachments/assets/4bf22c9c-1c74-44c6-a381-aedd2b8eafd2" />
+</i></p>
 
 <p><b>Chi tiết các thành phần & chức năng:</b></p>
 <ul>
@@ -110,7 +111,8 @@
 
 <h3>2. ➕ Màn hình Thêm & Chỉnh sửa giao dịch (activity_add_edit_transaction.xml)</h3>
 
-<p><i>(Kéo thả hình chụp Màn hình Thêm Sửa vào đây)</i></p>
+<p><i><img width="308" height="429" alt="Hình 2" src="https://github.com/user-attachments/assets/4b4a26c9-3114-437a-9cea-b11d15a9e6f4" />
+</i></p>
 
 <p><b>Chi tiết các thành phần & chức năng:</b></p>
 <ul>
@@ -125,7 +127,8 @@
 
 <h3>3. 🧩 Giao diện Khung mẫu từng dòng giao dịch (item_transaction.xml)</h3>
 
-<p><i>(Kéo thả hình chụp Giao diện Item vào đây)</i></p>
+<p><i><img width="281" height="486" alt="Hình 3" src="https://github.com/user-attachments/assets/dd9834ce-8242-42e9-acb3-8a3da60f8ab2" />
+</i></p>
 
 <p><b>Chi tiết các thành phần & chức năng:</b></p>
 <ul>
